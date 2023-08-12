@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ramzeng/ramzeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Hi, I'm ramzeng! 👋
+
+📍 Backend Developer in Shenzhen, China
+
+💻 Focusing on Golang & MySQL
+
+🌐 Passionate about server-side development & distributed technologies
